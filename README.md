@@ -1,6 +1,7 @@
 # Final Project
 
 Roy Jara, rjara@ucsd.edu
+
 Elliott Lao, eylao@ucsd.edu
 
 ## Abstract Proposal
