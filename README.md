@@ -1,10 +1,11 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Roy Jara, rjara@ucsd.edu
+Elliott Lao, eylao@ucsd.edu
 
 ## Abstract Proposal
+
+In this project we intend to go through a more abstract path in generating art by using machine learning or more specifically neutal networks. With video as an input to a convolutional neural network, we generate two outputs, an (x,y) coordinate pair and a MIDI number. The x,y coordinate selects the embedding from a pregenerated embedding of visual content, this could be images or sketches pregenerated with another machine learning model. The x,y coordinate therefore selects the embedding to be the corresponding frame to the input frame of the video. Using ffmpeg we can generate the video frame by frame from the selected embeddings as well as audio generated from the midi notes. The ideal scenario would be to implement this in real time but showing the input video and the output video side by side would also be a nice way to present this project. 
 
 FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
 
